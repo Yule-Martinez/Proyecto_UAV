@@ -135,3 +135,4 @@ Si la documentacion lo requiere podemos podemos presentar informacion en formato
 Para la vizualisacion de imagenes debemos cargar los archivos en nuestro repositorio y vincularlo
 [Pika-Pi](pikagit.png)
 hola mundo
+requisitos opcionales
