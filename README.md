@@ -1,8 +1,8 @@
 # DEPARTAMENTO DE DESARROLLO TECNOLOGICO
 #### Misión
-Generar avances tecnológicos en torno a las nuevas modalidades y estilos de vida que constantemente evolucionan 
-#### Visión
 Incrementar el número de proyectos que tengan un impacto en la sociedad
+#### Visión
+Generar avances tecnológicos en torno a las nuevas modalidades y estilos de vida que constantemente evolucionan 
 #### Valores
 - **Responsabilidad:** Entregamos en tiempo y forma todos los proyectos asignados
 dentro de la empresa.
