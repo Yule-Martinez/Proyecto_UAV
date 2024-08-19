@@ -1,6 +1,16 @@
 # DEPARTAMENTO DE DESARROLLO TECNOLOGICO
-
-Esta practica sirve para conocer los comandos basicos del maquetado bajo el estandar de MARKDOWN (.md), que nos servira para crea la documantacion de niuestros poryectos de software durante nuestra formacion profesional.
+##### Misión
+Generar avances tecnológicos en torno a las nuevas modalidades y estilos de vida que constantemente evolucionan 
+##### Visión
+Incrementar el número de proyectos que tengan un impacto en la sociedad
+##### Valores
+- Responsabilidad: Entregamos en tiempo y forma todos los proyectos asignados
+dentro de la empresa.
+- Innovación: Creamos y mejoramos avances tecnológicos conforme la tecnología vaya
+evolucionando.
+- Empatía: Mejoramiento laboral, apoyo entre compañeros de equipo.
+- Seguridad: Proporcionalmente de un protocolo de seguridad a los proyectos que se
+lleven a cabo dentro de la empresa. 
 
 ## 1. Titulos HEADERS
 
