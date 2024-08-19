@@ -134,5 +134,12 @@ Si la documentacion lo requiere podemos podemos presentar informacion en formato
 
 Para la vizualisacion de imagenes debemos cargar los archivos en nuestro repositorio y vincularlo
 [Pika-Pi](pikagit.png)
-hola mundo
-requisitos opcionales
+
+# Plan de Implementación 
+
+## 1.Fase de Diseño y Desarollo
+       °       Selección de proveedores para componentes clave de dron y sistemas de fumigación
+       °       Diseño y prototipado del dron y sistemas de control
+       °       Pruebas de laboratorio y simulaciones de vuelo para validar la capacidad de                    carga y autonomía
+       
+        
