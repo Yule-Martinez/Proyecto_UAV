@@ -1,4 +1,4 @@
-# Proyecto_Practica
+# DEPARTAMENTO DE DESARROLLO TECNOLOGICO
 
 Esta practica sirve para conocer los comandos basicos del maquetado bajo el estandar de MARKDOWN (.md), que nos servira para crea la documantacion de niuestros poryectos de software durante nuestra formacion profesional.
 
